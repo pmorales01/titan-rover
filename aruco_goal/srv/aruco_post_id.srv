@@ -1,0 +1,3 @@
+int64 aruco_id
+---
+int64 current_aruco_id
